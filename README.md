@@ -4,7 +4,9 @@
 
 # About Me :tada:
 
-Hallo, My Name Maruf Salaffudin. I'm still on learing. I want to be a professional programmers
+Hallo, My Name Maruf Salaffudin. I'm still on learing I want to be a professional programmers.
+<br>
+I like learing javascript and NodeJS. I want to be Professionals Backend Developer.
 
 [![Facebook](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-24.png)](https://www.instagram.com/theresonly1winner/)
 [![WhatsApp](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/whatsapp-24.png)](https://wa.me/6285868444976)
